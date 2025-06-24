@@ -2,7 +2,7 @@
   
 <p align="center">
     <a href="https://izk-arcos.nl/" target="_blank" rel="noopener">
-        <img src="https://github.com/user-attachments/assets/dbe54c5d-5e3b-4e3d-b8a0-00d5c17a12e2" width="768px"/>
+        <img src="https://github.com/user-attachments/assets/c7ae333b-c72b-43ee-ac05-1e7eab70494d" width="768px"/>
     </a>
 </p>
 
@@ -10,14 +10,23 @@
 
 </div>
 
-ArcOS is the advanced Svelte-based Operating System Environment in your browser. With ArcOS we aim to create the best possible experience we can within the confines of your browser. ArcOS consists of:
-- 📊 Advanced process and service management,
-- ☁ Readymade cloud storage to access your account from anywhere using ArcOS' [ReArc](https://github.com/IzK-ArcOS/ReArc-Backend) 🔒 (WIP),
-- 🔐 A secure user system consisting of hashed and salted passwords,
-- 🗄 Filesystem integration to store, create and upload files,
-- 📧 A built-in messaging system to talk to other ArcOS users on the same server,
-- ✨ Endless customization options to really adjust ArcOS to your personal taste,
-- 🐣 Beginner-friendly User Interface without the need of manuals,
-- ⚠ Powerful error reporting and crash logs so that we can fix anything that's wrong as fast as possible
+ArcOS is an advanced Web Operating System built with reliability and expandability in mind. I've been working hard for years to give you the WebOS experience you deserve. With ArcOS, everything you do is stored in the cloud, so that you can access your stuff from anywhere. Just pop open a browser, type in the address, log in and you're right back on your familiar desktop. ArcOS also has infrastructure put in place to allow users to make and distribute their own apps to other ArcOS users.
 
-To use ArcOS in its current unfinished state, please visit https://v7.izkuipers.nl/. For information about application development, go to https://docs.arcapi.nl/.
+> [!WARNING]
+> ArcOS is currently in **beta**. Expect missing features, unexpected crashes or weird bugs.
+
+## What can I find here?
+In the organization? Not much. Yet. For the moment all I can do is give you various relevant links related to ArcOS, but in the future this organization will hold the _public_ source for all of ArcOS, including the backend. However, during its beta development stages, I'm cautious with sending my hard work into the world wide interwebs, simply because I'd hate for somebody to steal 5 years of work away from right under my nose. Stay tuned for more info regarding ArcOS OSS. Anyway, here are some links:
+
+- You can find ArcOS itself [here](https://v7.izkuipers.nl/) (ArcOS ~~[v5](https://v5.izkuipers.nl)~~ and ~~[v6](https://v6.izkuipers.nl)~~ are available too)
+- The backend is hosted on [arcapi.nl](https://arcapi.nl/)
+- ArcOS has a [discord server](https://discord.gg/t5PaNP9dvg) where we talk about the OS and other cool projects. The periodic changelog is there, too
+- ArcOS' website can be found [here](https://arcos.izkuipers.nl)
+- There's [documentation](https://docs.arcapi.nl/) for developing third-party apps using [`v7cli`](https://npmjs.org/package/v7cli).
+
+## Need help?
+That's what the discord is for, in part. If you can't figure out how to get to ArcOS, how to make an account, or why you can't get to the desktop, the Discord is there to help you out. Generally however, if you encounter a bug, I'd prefer it if you sent a Bug Report using the _Bug Hunt_ application **inside ArcOS**. This puts all bugs and issues in one centralised place for me to look in, how dandy.
+
+## Disclaimers
+Please keep in mind the following list of disclaimers before and whilst using ArcOS:
+https://docs.arcapi.nl/#arcos-disclaimers
