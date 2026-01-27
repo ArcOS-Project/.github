@@ -16,9 +16,9 @@ ArcOS is an advanced Web Operating System built with reliability and expandabili
 > ArcOS is currently in **beta**. Expect missing features, unexpected crashes or weird bugs.
 
 ## What can I find here?
-In the organization? Not much. Yet. For the moment all I can do is give you various relevant links related to ArcOS, but in the future this organization will hold the _public_ source for all of ArcOS, including the backend. However, during its beta development stages, I'm cautious with sending my hard work into the world wide interwebs, simply because I'd hate for somebody to steal 5 years of work away from right under my nose. Stay tuned for more info regarding ArcOS OSS. Anyway, here are some links:
+In the organization? Not much. Just the 100k LoC ArcOS v7 frontend codebase found [here](https://github.com/ArcOS-Project/v7). Anyway, here are some links:
 
-- You can find ArcOS itself [here](https://v7.izkuipers.nl/) (ArcOS ~~[v5](https://v5.izkuipers.nl)~~ and ~~[v6](https://v6.izkuipers.nl)~~ are available too)
+- You can find ArcOS itself [here](https://os.arcweb.nl/) (ArcOS [v5](https://v5.arcweb.nl) and [v6](https://v6.arcweb.nl) are available too)
 - The backend is hosted on [arcapi.nl](https://arcapi.nl/)
 - ArcOS has a [discord server](https://discord.gg/t5PaNP9dvg) where we talk about the OS and other cool projects. The periodic changelog is there, too
 - ArcOS' website can be found [here](https://arcos.izkuipers.nl)
