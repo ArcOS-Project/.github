@@ -21,7 +21,7 @@ In the organization? Not much. Just the 100k LoC ArcOS v7 frontend codebase foun
 - You can find ArcOS itself [here](https://os.arcweb.nl/) (ArcOS [v5](https://v5.arcweb.nl) and [v6](https://v6.arcweb.nl) are available too)
 - The backend is hosted on [arcapi.nl](https://arcapi.nl/)
 - ArcOS has a [discord server](https://discord.gg/t5PaNP9dvg) where we talk about the OS and other cool projects. The periodic changelog is there, too
-- ArcOS' website can be found [here](https://arcos.izkuipers.nl)
+- ArcOS' website can be found [here](https://arcweb.nl)
 - There's [documentation](https://docs.arcapi.nl/) for developing third-party apps using [`v7cli`](https://npmjs.org/package/v7cli).
 
 ## Need help?
